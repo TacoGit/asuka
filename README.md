@@ -39,8 +39,8 @@ To get started with this script, follow these steps:
 
    Finally, launch the script with:
    ```bash
-   python your_script_name.py
+   python main.py
    ```
 
-And that's it! You're all set to enjoy your personalized Discord Rich Presence with your favorite anime.
+And that's it!
 
